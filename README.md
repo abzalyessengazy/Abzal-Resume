@@ -68,7 +68,8 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 - **Databases**: SQL, MS SSMS, SSIS Packages  
 - **ETL**: Extract, Transform, Load processes  
 - **Visualization**: Power BI  
-- **Machine Learning**: TensorFlow, Keras  
+- **Machine Learning**: TensorFlow, Keras
+- **Version Control**: Git
 - **Other**: Presentation and communication skills, problem-solving  
 
 ---
