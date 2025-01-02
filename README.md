@@ -82,6 +82,18 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 
 ---
 
+## Recognitions  
+
+### **Awards**  
+- Recognized for outstanding contributions to the Chevron Kazakhstan Information Management Group.  
+- Recipient of two Silver Medals for excellence in data analytics and project delivery.
+
+<div align="center">
+  <img src="silver2.jpeg" alt="Silver Medal 1" width="200">
+  <img src="silver4.jpeg" alt="Silver Medal 2" width="200">
+</div>
+
+---
 ## Recommendations  
 - **Craig Ginnett**: Crisis & Emergency Management Professional  
 - **Abduvakhit Junussov**: Experienced Data Analyst  
