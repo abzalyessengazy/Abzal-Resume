@@ -1,7 +1,6 @@
 # Abzal Yessengazy  
 **Atyrau, Kazakhstan**  
 **Email**: abzal.yessengazy@gmail.com  
-**Phone**: +7 7029529404  
 [LinkedIn: Abzal Yessengazy](https://www.linkedin.com/in/abzal-yessengazy/?locale=en_US)
 
 ---
