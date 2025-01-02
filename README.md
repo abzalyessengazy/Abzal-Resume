@@ -113,7 +113,7 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 ## Excel Trick for Data Wrangling by Me
 
 <video controls width="800">
-  <source src="ExcelTrick.mp4" type="video/mp4">
+  <source src="excelTrick.mp4" type="video/mp4">
   <p>Your browser does not support HTML5 video. Download the video <a href="ExcelTrick.mp4">here</a>.</p>
 </video>
 
