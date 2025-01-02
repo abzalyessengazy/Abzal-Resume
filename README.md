@@ -93,9 +93,8 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 ## BI Report Demo: Hackathon Dashboard
 
 <video controls width="800">
-  <source src="Power%20BI%20Dashboard%20for%20Hackathon.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-  <a href="Power%20BI%20Dashboard%20for%20Hackathon.mp4">Download the video</a>.
+  <source src="Power BI Dashboard for Hackathon.mp4" type="video/mp4">
+  <p>Your browser does not support HTML5 video. Download the video <a href="Power BI Dashboard for Hackathon.mp4">here</a>.</p>
 </video>
 
 
