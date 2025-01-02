@@ -89,7 +89,7 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 - Recipient of two Silver Medals for excellence in data analytics and project delivery.
 
 <div align="center">
-  <img src="silver2.jpeg" alt="Silver Medal 1" width="200">
+  <img src="Silver2.jpeg" alt="Silver Medal 1" width="200">
   <img src="silver4.jpeg" alt="Silver Medal 2" width="200">
 </div>
 
