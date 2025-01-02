@@ -72,6 +72,10 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 - **Machine Learning**: TensorFlow, Keras  
 - **Other**: Presentation and communication skills, problem-solving  
 
+## BI Report Demo: Hackathon Dashboard
+![Watch the video](Power%20BI%20Dashboard%20for%20Hackathon.mp4)
+
+
 ---
 
 ## Languages  
