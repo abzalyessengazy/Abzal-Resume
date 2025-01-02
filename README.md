@@ -88,16 +88,16 @@ L.N. Gumilyov Eurasian National University (2009 – 2013)
 - **Botagoz Mukatova**: Data Scientist
 
 
-## Downloadables
-
-# Abzal Yessengazy
+## Portfolio
 
 ## BI Report Demo: Hackathon Dashboard
+
 <video controls width="800">
-  <source src="./Power%20BI%20Hackathon%20Demo.mp4" type="video/mp4">
+  <source src="Power%20BI%20Dashboard%20for%20Hackathon.mp4" type="video/mp4">
   Your browser does not support the video tag.
-  <a href="./Power%20BI%20Hackathon%20Demo.mp4">Download the video</a>.
+  <a href="Power%20BI%20Dashboard%20for%20Hackathon.mp4">Download the video</a>.
 </video>
+
 
 ## Download My CV
 [Download CV - Abzal Yessengazy.docx](CV%20-%20Abzal%20Yessengazy.docx)
