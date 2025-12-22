@@ -12,9 +12,26 @@ Data Enthusiast and Information Management Expert with a Master’s degree in Op
 
 ## Experience  
 
+### **Senior Business Intelligence Analyst**  
+*EPAM Systems*  
+**May 2025 – Present**  
+- Led the end-to-end development of business process automation and reporting solutions using Power Apps and Power BI.
+- Designed and built responsive Power Apps Canvas applications, including UI/UX, Power Fx logic, backend Dataverse tables, and automated workflows.
+- Acted as technical SME during discovery phases, supporting requirements gathering, client demos, and user acceptance testing.
+- Developed and managed synthetic data to enable parallel development, ensuring smooth transition to production data.
+- Owned the full lifecycle of multiple Power BI reports and dashboards: selected licensing and workspace setup, designed data models, implemented advanced DAX calculations, and built interactive, automated dashboards.
+- Integrated Power BI with diverse data sources (Dataverse, SharePoint, Jira, SonarQube, Azure DevOps), and automated data ingestion using Python and Power Query.
+- Ensured data quality and traceability through robust ETL processes, API integrations, and optimized datasets.
+- Delivered comprehensive user guides, technical documentation, and knowledge transfer sessions for stakeholders.
+- Provided ongoing support, bug fixing, and continuous improvement based on user feedback.
+- Successfully adapted to new workflows and contributed effectively under tight deadlines, consistently delivering high-quality solutions that improved operational efficiency and stakeholder engagement.
+
+**Tech Stack:**  
+Power Apps, Power BI (DAX, Power Query), Dataverse, Python, Jira, SonarQube, Azure DevOps, Excel, REST APIs
+
 ### **Data Analytics Team Lead**  
 *Information Management Group, Chevron Kazakhstan*  
-**Jul 2024 – Present**  
+**Jul 2024 – May 2025**  
 - Managing a team of 36 data analysts, engineers, and document controllers for 1.8 million equipment tags and 60 million data points.  
 - Developing strategic plans for timely, budget-compliant data delivery.  
 - Implementing data quality assurance tools and procedures.  
